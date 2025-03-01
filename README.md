@@ -14,6 +14,17 @@ Aplicativo que calcular orçamento para Troca de Tela de Celulares
 |----------------|---------------|
 |![Tela Homepage](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/homepage.jpg)  | ![Tela Resultado](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/resultado_orcamento1.jpg) 
 
+| Configurações    | Parcelamento   |
+|------------------|------------------|
+|![Tela configurações](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/configuracoes.jpg)  | ![Tela Parcelamento](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/preview1.jpg) 
+
+
+| Tipo de Tela    | Compartilhar com Cliente|
+|------------------|------------------|
+|![Tela Tipo tela](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/preview2.jpg)  | ![Tela Compartilhar](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/imagem_para_cliente.jpg) 
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
