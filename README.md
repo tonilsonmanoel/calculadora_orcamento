@@ -10,11 +10,9 @@ Aplicativo que calcular orçamento para Troca de Tela de Celulares
 
 # 📱Telas
 
-
-
-| Imagem 1    |  Imagem 2     |
-|-------------|---------------|
-|sasa         |d  asd
+| Homepage       | Resultado Orçamento    |
+|----------------|---------------|
+|![Tela Homepage](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/homepage.jpg)  | ![Tela Resultado](https://raw.githubusercontent.com/tonilsonmanoel/calculadora_orcamento/refs/heads/main/assets/previews/resultado_orcamento1.jpg) 
 
 This project is a starting point for a Flutter application.
 
